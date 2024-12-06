@@ -73,13 +73,12 @@ plant leaves3
 
 ## Codes
 
-Load the image 
-
 ![carbon](https://github.com/user-attachments/assets/8dec8abd-3794-4cc0-a14d-f863f9cd5593)
+![carbon (3)](https://github.com/user-attachments/assets/0df84f23-d4e7-4141-b788-5428e33c9072)
+![carbon (4)](https://github.com/user-attachments/assets/ecadf916-53ea-4400-8476-333bbb755d93)
+![carbon (6)](https://github.com/user-attachments/assets/a9843564-406a-4613-8b42-e9ece78d6ff5)
+![carbon (7)](https://github.com/user-attachments/assets/582f5be8-7672-418b-989a-ff5e091f5e34)
 
-Convert RGb to HSV 
-
-![carbon (1)](https://github.com/user-attachments/assets/ebe97e45-7f77-492a-af9f-c4ec49a72eda)
 
 
 
