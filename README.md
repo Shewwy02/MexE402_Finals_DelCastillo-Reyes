@@ -44,3 +44,16 @@ The expected results include a fine-tuned HSV threshold range that minimizes det
 - **Analyze Lighting Variations**:  
   - Test the thresholds on images taken under different lighting conditions.
 
+
+![Conclusion](https://github.com/user-attachments/assets/bf0fab92-82f6-4245-82d8-9f4447538ab3)  
+
+This project successfully demonstrated the use of HSV thresholds to isolate plant leaves under various lighting conditions. Through iterative testing and refinement, an optimal HSV range was identified, providing consistent leaf isolation across different environments, including bright sunlight.  
+
+One significant challenge was dealing with the variability caused by extreme lighting conditions commonly encountered in natural environments. For example, harsh sunlight created high-contrast shadows that obscured parts of the leaves, while overly bright areas caused reflections that distorted the perceived color. Similarly, dim or uneven lighting, such as in indoor settings or cloudy weather, reduced color saturation, making it harder to distinguish leaves from the background.
+
+The project outcomes include a isolating plant leaves and test hsv threshold unver various lighting conditions. These findings can be applied to agricultural and environmental monitoring systems, with potential extensions involving machine learning models for even greater adaptability.
+
+![AdditionalMAterials](https://github.com/user-attachments/assets/76159a34-594e-43f1-a84c-e14cc2625c36)
+
+
+
