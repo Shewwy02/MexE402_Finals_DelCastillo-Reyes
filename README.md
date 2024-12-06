@@ -55,5 +55,31 @@ The project outcomes include a isolating plant leaves and test hsv threshold unv
 
 ![AdditionalMAterials](https://github.com/user-attachments/assets/76159a34-594e-43f1-a84c-e14cc2625c36)
 
+## Dataset plant leaves
+
+https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
+
+plant leaves
+![plant](https://github.com/user-attachments/assets/15a9522a-4af5-413c-b78c-e286541351ab)
+
+plant leaves1
+![plant1](https://github.com/user-attachments/assets/6b7a8530-42c4-44f9-8ebc-c7c76f8c38fb)
+
+plant leaves2
+![plant2](https://github.com/user-attachments/assets/aacb7f2b-11d1-4818-a8c5-d6ce88d1e383)
+
+plant leaves3
+![plant3](https://github.com/user-attachments/assets/0a18df51-b56c-480b-ad56-ff15d18a92b6)
+
+## Codes
+
+Load the image 
+
+![carbon](https://github.com/user-attachments/assets/8dec8abd-3794-4cc0-a14d-f863f9cd5593)
+
+Convert RGb to HSV 
+
+![carbon (1)](https://github.com/user-attachments/assets/ebe97e45-7f77-492a-af9f-c4ec49a72eda)
+
 
 
