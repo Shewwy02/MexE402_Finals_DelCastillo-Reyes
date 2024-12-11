@@ -67,8 +67,7 @@ plant leaves3
 
 ## Codes
 ![carbon (3)](https://github.com/user-attachments/assets/0df84f23-d4e7-4141-b788-5428e33c9072)
-![carbon (4)](https://github.com/user-attachments/assets/ecadf916-53ea-4400-8476-333bbb755d93)
-![carbon (6)](https://github.com/user-attachments/assets/a9843564-406a-4613-8b42-e9ece78d6ff5)
+
 
 
 
