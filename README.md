@@ -66,8 +66,8 @@ plant leaves3
 ![plant3](https://github.com/user-attachments/assets/0a18df51-b56c-480b-ad56-ff15d18a92b6)
 
 ## Codes
-![carbon (8)](https://github.com/user-attachments/assets/343ed723-3f5d-42d6-8669-784f6e92e1aa)
-![carbon (3)](https://github.com/user-attachments/assets/0df84f23-d4e7-4141-b788-5428e33c9072)
+![carbon (12)](https://github.com/user-attachments/assets/07ef37c7-28c0-4afc-a0da-ff3eb1fcd4fb)
+![carbon (13)](https://github.com/user-attachments/assets/e4a6752f-1869-4883-90c9-11352dfcbb9f)
 ![carbon (9)](https://github.com/user-attachments/assets/ea201b47-346a-45db-b4a9-7823dad7ee9e)
 ![carbon (10)](https://github.com/user-attachments/assets/f3802fab-0640-4d7e-9baf-9d1c8e58887b)
 
