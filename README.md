@@ -35,12 +35,6 @@ The expected results include a fine-tuned HSV threshold range that minimizes det
 - **Define Initial HSV Thresholds**:  
   - Set initial lower and upper HSV values to isolate green hues typically associated with plant leaves.  
 
-- **Apply Thresholding**:  
-  - Use the `cv2.inRange()` function to create a binary mask highlighting regions within the defined HSV range.  
-
-- **Morphological Operations**:  
-  - Apply morphological transformations (e.g., opening and closing) to remove noise and refine the mask.  
-
 - **Analyze Lighting Variations**:  
   - Test the thresholds on images taken under different lighting conditions.
 
@@ -72,12 +66,10 @@ plant leaves3
 ![plant3](https://github.com/user-attachments/assets/0a18df51-b56c-480b-ad56-ff15d18a92b6)
 
 ## Codes
-
-![carbon](https://github.com/user-attachments/assets/8dec8abd-3794-4cc0-a14d-f863f9cd5593)
 ![carbon (3)](https://github.com/user-attachments/assets/0df84f23-d4e7-4141-b788-5428e33c9072)
 ![carbon (4)](https://github.com/user-attachments/assets/ecadf916-53ea-4400-8476-333bbb755d93)
 ![carbon (6)](https://github.com/user-attachments/assets/a9843564-406a-4613-8b42-e9ece78d6ff5)
-![carbon (7)](https://github.com/user-attachments/assets/582f5be8-7672-418b-989a-ff5e091f5e34)
+
 
 
 
