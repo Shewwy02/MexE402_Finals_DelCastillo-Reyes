@@ -1,4 +1,4 @@
-# MexE402_Finals_DelCastillo-Reyes
+# 💻MexE402_Finals_DelCastillo-Reyes
 
 Topic 8: Isolating Objects by Color
  Apply the HSV thresholding code to extract and display objects of specific colors from an image.
@@ -49,7 +49,7 @@ The project outcomes include a isolating plant leaves and test hsv threshold unv
 
 ![AdditionalMAterials](https://github.com/user-attachments/assets/76159a34-594e-43f1-a84c-e14cc2625c36)
 
-## Dataset plant leaves
+## 📖Dataset plant leaves
 
 https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
 
@@ -65,13 +65,13 @@ plant leaves2
 plant leaves3
 ![plant3](https://github.com/user-attachments/assets/0a18df51-b56c-480b-ad56-ff15d18a92b6)
 
-## Codes
+## 🧑‍💻 Codes
 ![carbon (12)](https://github.com/user-attachments/assets/07ef37c7-28c0-4afc-a0da-ff3eb1fcd4fb)
 ![carbon (13)](https://github.com/user-attachments/assets/e4a6752f-1869-4883-90c9-11352dfcbb9f)
 ![carbon (9)](https://github.com/user-attachments/assets/ea201b47-346a-45db-b4a9-7823dad7ee9e)
 ![carbon (10)](https://github.com/user-attachments/assets/f3802fab-0640-4d7e-9baf-9d1c8e58887b)
 
-## Results
+## ✨Results
 plant leaves
 
 ![isolated_leaves](https://github.com/user-attachments/assets/0f8ec762-903c-48f4-902c-3fc754523cd0)
@@ -105,6 +105,14 @@ plant leaves2
 plant leaves3
 
 ![Hue_3](https://github.com/user-attachments/assets/a272ad32-6d20-425d-846b-c0e1aec19d95)
+
+## 🎯References
+
+Plant leaves for image classification. (2022, September 12). Kaggle.
+https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
+
+Edeza, T. (2021, December 26). Image Processing with Python — Color Isolation for Beginners. Medium.
+https://towardsdatascience.com/image-processing-with-python-color-isolation-for-beginners-3b472293335b
 
 
 
