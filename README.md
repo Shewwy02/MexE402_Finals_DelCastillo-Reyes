@@ -72,8 +72,39 @@ plant leaves3
 ![carbon (10)](https://github.com/user-attachments/assets/f3802fab-0640-4d7e-9baf-9d1c8e58887b)
 
 ## Results
+plant leaves
 
+![isolated_leaves](https://github.com/user-attachments/assets/0f8ec762-903c-48f4-902c-3fc754523cd0)
 
+plant leaves1
+
+![isolated_leaves1](https://github.com/user-attachments/assets/83345bd2-0bc7-48b4-bb92-8b31d7dfb4d8)
+
+plant leaves2
+
+![isolated_leaves2](https://github.com/user-attachments/assets/31119f94-9ea6-4524-8e17-0696dfa1cbb6)
+
+plant leaves3
+
+![isolated_leaves3](https://github.com/user-attachments/assets/bc1f357b-5200-46c1-8a96-8f2b7cb4d142)
+
+HSV
+
+plant leaves
+
+![Hue_0](https://github.com/user-attachments/assets/68a5fd87-7336-48cb-b076-73b15e5701ad)
+
+plant leaves1
+
+![Hue_1](https://github.com/user-attachments/assets/fa0f6f58-5453-4c00-89aa-e371ab3cc9c5)
+
+plant leaves2
+
+![Hue_2](https://github.com/user-attachments/assets/cb5a4c97-b7b9-44aa-bff1-6b5d235d239e)
+
+plant leaves3
+
+![Hue_3](https://github.com/user-attachments/assets/a272ad32-6d20-425d-846b-c0e1aec19d95)
 
 
 
