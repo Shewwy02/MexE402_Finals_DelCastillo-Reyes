@@ -209,6 +209,8 @@ https://www.kaggle.com/datasets/csafrit2/plant-leaves-for-image-classification
 Edeza, T. (2021, December 26). Image Processing with Python — Color Isolation for Beginners. Medium.
 https://towardsdatascience.com/image-processing-with-python-color-isolation-for-beginners-3b472293335b
 
+Open CV toturial 
+https://youtu.be/E3Lg4aZVCAU?si=_UT8JlruRT_q7wi1
 
 
 
