@@ -66,6 +66,101 @@ plant leaves3
 ![plant3](https://github.com/user-attachments/assets/0a18df51-b56c-480b-ad56-ff15d18a92b6)
 
 ## 🧑‍💻 Codes
+
+```python
+!git clone https://github.com/misbah4064/opencvTutorial.git
+%cd opencvTutorial/
+from IPython.display import clear_output
+clear_output()
+```
+```python
+# Importing the necessary libraries
+import numpy as np
+import matplotlib.pyplot as plt
+from skimage.io import imshow, imread
+from skimage.color import rgb2hsv, hsv2rgb
+import cv2
+```
+```python
+import cv2
+import numpy as np
+from google.colab.patches import cv2_imshow
+
+# Load the image
+image = cv2.imread("images/leaves3.jpg")  # Replace with the path to your plant image
+
+# Convert the image to HSV color space
+hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+
+# Define the range for green color (adjust as needed based on the image)
+lower_green = np.array([25, 40, 40])  # Lower bound of green in HSV
+upper_green = np.array([85, 255, 255])  # Upper bound of green in HSV
+
+# Create a mask for the green color
+mask = cv2.inRange(hsv, lower_green, upper_green)
+
+# Perform morphological operations to clean the mask
+kernel = np.ones((5, 5), np.uint8)
+mask = cv2.morphologyEx(mask, cv2.MORPH_CLOSE, kernel)
+mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, kernel)
+
+# Apply the mask to the original image
+result = cv2.bitwise_and(image, image, mask=mask)
+
+# Display the result
+cv2_imshow(result)
+```
+```python
+import cv2
+from google.colab.patches import cv2_imshow
+
+#colorful image - 3 channels
+image = cv2.imread("images/leaves3.jpg")
+print(image.shape)
+
+#HSV Image
+HSV = cv2.cvtColor(image,cv2.COLOR_BGR2HSV)
+print(HSV.shape)
+cv2_imshow(HSV)
+```
+```python
+import cv2
+import matplotlib.pyplot as plt
+
+def display_as_hsv(image_path):
+    """
+    Splits an image into its HSV channels and displays them.
+
+    Parameters:
+        image_path (str): Path to the input image file.
+    """
+    # Load the image
+    img = cv2.imread(image_path)
+    if img is None:
+        print(f"Error: Could not load image from path {image_path}")
+        return
+
+    # Convert the image to HSV
+    img_hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+
+    # Titles for the HSV channels
+    hsv_list = ['Hue', 'Saturation', 'Value']
+    colormaps = ['hsv', 'Greys', 'gray']  # Colormaps for visualization
+
+    # Create a figure for displaying the HSV channels
+    fig, ax = plt.subplots(1, 3, figsize=(15, 7), sharey=True)
+    for i in range(3):
+        ax[i].imshow(img_hsv[:, :, i], cmap=colormaps[i])
+        ax[i].set_title(hsv_list[i], fontsize=20)
+        ax[i].axis('off')  # Hide axes for a cleaner look
+
+    # Adjust layout
+    plt.tight_layout()
+    plt.show()
+
+# Call the function with the path to your plant image
+display_as_hsv("images/leaves3.jpg")  # Replace with your image path
+```
 ![carbon (12)](https://github.com/user-attachments/assets/07ef37c7-28c0-4afc-a0da-ff3eb1fcd4fb)
 ![carbon (13)](https://github.com/user-attachments/assets/e4a6752f-1869-4883-90c9-11352dfcbb9f)
 ![carbon (9)](https://github.com/user-attachments/assets/ea201b47-346a-45db-b4a9-7823dad7ee9e)
